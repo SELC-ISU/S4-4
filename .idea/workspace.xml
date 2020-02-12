@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fe85e25-4915-4ff7-84c2-69f02950ed74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ePortfolio.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="EthanOchoa" />
+        <option value="ochoaskid@hotmail.com" />
+        <option value="ethan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XiCjQiBL5nlypVNHtezBI2c9l7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe85e25-4915-4ff7-84c2-69f02950ed74" name="Default Changelist" comment="" />
+      <created>1581519662524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581519662524</updated>
+      <workItem from="1581519666305" duration="540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html file, main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="html file, main page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="10" y="10" key="CommitChangelistDialog2" timestamp="1581520116785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="10" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581520116785" />
+    <state x="51" y="170" key="Vcs.Push.Dialog.v2" timestamp="1581520188319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="51" y="170" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581520188319" />
+  </component>
+</project>
