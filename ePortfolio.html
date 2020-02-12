@@ -23,10 +23,79 @@
             text-shadow: 2px 2px 5px red, 0 0 10px blue;
         }
 
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: black;
+        }
+
+        .dropbtn {
+            display: block;
+            color: white;
+            background-color: red;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 100px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {background-color: gray;}
+
     </style>
 
 </head>
 <body>
+
+<ul>
+    <li><a href="ePortfolio.html">Home</a></li>
+    <li><a href="#news">Extra</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+    <li style="float:right" class = "dropdown"><a class="dropbtn">About</a>
+        <div class="dropdown-content">
+            <a href="#">Camden Breeding</a>
+            <a href="#">Cade Berry</a>
+            <a href="#">Ethan Ochoa</a>
+        </div>
+    </li>
+</ul>
 
 <h1>SE 186x ePortfolio For<br>Group ERROR 404</h1>
 
