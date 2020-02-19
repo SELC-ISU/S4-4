@@ -6,7 +6,8 @@ h1{
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
-    text-shadow: 2px 2px 5px red, 0 0 10px blue;
+    text-shadow: 2px 2px 5px aquamarine, 0 0 10px deeppink;
+    color: blue;
 }
 
 ul {
