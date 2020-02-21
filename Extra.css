@@ -11,6 +11,7 @@ h1{
 }
 
 ul {
+    color: white;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -71,12 +72,56 @@ body{
     background-image: url("https://i1.wp.com/www.sciencemediacentre.co.nz/wp-content/upload/2018/06/Press-start-text-with-bad-signal-872608184_1369x770.jpeg?ssl=1");
     background-repeat: no-repeat;
     background-position-x: center;
-    background-size: cover;
+    background-position-y: 10%;
+    background-size: auto;
     background-color: black;
     padding: 0;
     margin: 0;
 }
 
-button{
+.container {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 2s;
+    cursor: not-allowed;
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
 
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+}
+
+.button{
+    position: absolute;
+    top: 75%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 16px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid darkblue;
+    margin: 4px 2px;
+    width: 250px;
+
+}
+
+.button1:hover {
+    background-color: deepskyblue;
+    color: black;
+    box-shadow: 0 12px 16px 0 deepskyblue,0 17px 50px 0 blue;
+    transition-duration: 2s;
+}
+
+a:link, a:visited{
+    color: inherit;
+    text-decoration: none;
 }
