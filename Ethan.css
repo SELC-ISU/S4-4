@@ -9,7 +9,7 @@ h1{
 
 
     font-size: 50px;
-    background: linear-gradient(90deg, blue, red);
+    background: linear-gradient(90deg, black, white);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -72,7 +72,8 @@ li a:hover {
 .dropdown-content a:hover {background-color: gray;}
 
 body{
-    background-image: linear-gradient(to right, red, blue);
+    background: linear-gradient(45deg, red 10%, orange 20%, yellow 30%, green 40%, blue 50%, purple 60%);
+
     background-position-x: center;
     background-position-y: -150px;
     padding: 0;
