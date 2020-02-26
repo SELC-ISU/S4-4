@@ -6,9 +6,12 @@ h1{
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
-    text-shadow: 2px 2px 5px red, 0 0 10px blue;
-    color: black;
+
+
     font-size: 50px;
+    background: linear-gradient(90deg, blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 ul {
@@ -69,14 +72,9 @@ li a:hover {
 .dropdown-content a:hover {background-color: gray;}
 
 body{
-    background-image: url('https://wallpapersite.com/images/pages/pic_h/17111.jpg');
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to right, red, blue);
     background-position-x: center;
     background-position-y: -150px;
     padding: 0;
     margin: 0;
-}
-
-html, body{
-
 }
