@@ -118,7 +118,7 @@ body{
     background-color: deepskyblue;
     color: black;
     box-shadow: 0 12px 16px 0 deepskyblue,0 17px 50px 0 blue;
-    transition-duration: 2s;
+    transition-duration: 1s;
 }
 
 a:link, a:visited{
