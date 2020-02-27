@@ -68,10 +68,10 @@
 }
 .box-area{
     position: absolute;
-    top: 10%;
+    top: 7%;
     left: 0;
     width: 100%;
-    height: 89.5%;
+    height: 93.05%;
     overflow: hidden;
 }
 .box-area li{
@@ -80,9 +80,9 @@
     list-style: none;
     width: 25px;
     height: 25px;
-    background: rgba(255, 0, 170, 0.3);
+    background: rgba(255, 0, 0, 0.3);
     animation: animate 20s linear infinite;
-    bottom: -150px;
+    bottom: -160px;
 }
 .box-area li:nth-child(1){
     left: 86%;
@@ -129,6 +129,6 @@
     }
     100%{
         transform: translateY(-800px) rotate(360deg);
-        opacity: 1;
+        opacity: 0;
     }
 }
