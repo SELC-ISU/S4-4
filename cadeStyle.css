@@ -1,0 +1,12 @@
+.pictures
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.resumePic
+{
+
+    height: 100px;
+    width 100px;
+}
