@@ -81,7 +81,7 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: linear-gradient(to left, rgba(255,0,0,.3), rgba(255,0,125,.3));
+    background: linear-gradient(to left, rgba(255,0,0,.3)60%, rgba(255, 0, 125, 0.3));
     animation: animate 20s linear infinite;
     bottom: -160px;
 }
