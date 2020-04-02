@@ -97,7 +97,7 @@ body{
 
 .button{
     position: absolute;
-    top: 75%;
+    top: 85%;
     left: 60%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
