@@ -24,6 +24,26 @@ body{
     font-size: 20px;
 
 }
+.banner-text-header li {
+    float: left;
+}
+.banner-text-header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+.banner-text-header ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.banner-text-header li a{
+    background-color: #8e0f00;
+}
+
 .banner-text h2{
     text-align: center;
     color: #fff;
