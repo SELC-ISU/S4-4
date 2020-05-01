@@ -173,3 +173,12 @@
         opacity: 0;
     }
 }
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: blue;
+    font-size: 32px;
+    font-weight: 900;
+}
